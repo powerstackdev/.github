@@ -2,7 +2,11 @@
 
 # Welcome to the Power Stack project. 
 
+Based on powerful and bleed-edge technologies, this project aims to be the first fully open-source Digital Experience Platform (DXP).
 
+## Codebase and issue contributions
+
+This codebase for this project is a cross-platform monorepo. All contributions and issues should be raised againt the core [Power Stack](https://github.com/powerstackdev/power-stack) repo.
 
 <!--
 
