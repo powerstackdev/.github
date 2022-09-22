@@ -8,6 +8,8 @@ Based on powerful and bleeding-edge technologies, this project aims to be the fi
 
 This codebase for this project is a cross-platform monorepo. All contributions and issues should be raised againt the core [Power Stack](https://github.com/powerstackdev/power-stack) repo.
 
+## Website coming soon!
+
 <!--
 
 **Here are some ideas to get you started:**
