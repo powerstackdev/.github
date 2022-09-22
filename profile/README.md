@@ -2,7 +2,7 @@
 
 # Welcome to the Power Stack project. 
 
-Based on powerful and bleed-edge technologies, this project aims to be the first fully open-source Digital Experience Platform (DXP).
+Based on powerful and bleeding-edge technologies, this project aims to be the first fully open-source Digital Experience Platform (DXP).
 
 ## Codebase and issue contributions
 
