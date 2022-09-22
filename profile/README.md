@@ -1,4 +1,4 @@
-![Power Stack Hero](https://raw.githubusercontent.com/powerstackdev/.github/main/PowerStack%20Hero.jpg)
+![Power Stack Hero](https://raw.githubusercontent.com/powerstackdev/.github/main/PowerStack-Hero.jpg)
 
 # Welcome to the Power Stack project. 
 
