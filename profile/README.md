@@ -6,7 +6,7 @@ Based on powerful and bleeding-edge technologies, this project aims to be the fi
 
 ## Codebase and issue contributions
 
-This codebase for this project is a cross-platform monorepo. All contributions and issues should be raised againt the core [Power Stack](https://github.com/powerstackdev/power-stack) repo.
+This codebase for this project is a cross-platform monorepo. All contributions and issues should be raised against the core [Power Stack](https://github.com/powerstackdev/power-stack) repo.
 
 ## Website
 
